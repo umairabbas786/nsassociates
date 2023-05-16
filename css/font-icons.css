@@ -24,11 +24,11 @@
 ---------------------------------------------------------------*/
 @font-face {
     font-family: "flaticon";
-    src: url("../fonts/flaticon.ttf%3Fb66957d660bcc55c5e858f139c964a40") format("truetype"),
-url("../fonts/flaticon.woff%3Fb66957d660bcc55c5e858f139c964a40") format("woff"),
-url("../fonts/flaticon.woff2%3Fb66957d660bcc55c5e858f139c964a40") format("woff2"),
-url("../fonts/flaticon.eot%3Fb66957d660bcc55c5e858f139c964a40") format("embedded-opentype"),
-url("../fonts/flaticon.svg%3Fb66957d660bcc55c5e858f139c964a40") format("svg");
+    src: url("../fonts/flaticon4a47.ttf?b66957d660bcc55c5e858f139c964a40") format("truetype"),
+url("../fonts/flaticon4a47.woff?b66957d660bcc55c5e858f139c964a40") format("woff"),
+url("../fonts/flaticon4a47.woff2?b66957d660bcc55c5e858f139c964a40") format("woff2"),
+url("../fonts/flaticon4a47.eot?b66957d660bcc55c5e858f139c964a40#iefix") format("embedded-opentype"),
+url("../fonts/flaticon4a47.svg?b66957d660bcc55c5e858f139c964a40#flaticon") format("svg");
 }
 
 i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
@@ -331,11 +331,11 @@ i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
 ---------------------------------------------------------------*/
 @font-face {
   font-family: 'icomoon';
-  src:  url('../fonts/icomoon.eot%3F3aun5s');
-  src:  url('../fonts/icomoon.eot%3F3aun5s') format('embedded-opentype'),
-    url('../fonts/icomoon.ttf%3F3aun5s') format('truetype'),
-    url('../fonts/icomoon.woff%3F3aun5s') format('woff'),
-    url('../fonts/icomoon.svg%3F3aun5s') format('svg');
+  src:  url('../fonts/icomoon7d2d.eot?3aun5s');
+  src:  url('../fonts/icomoon7d2d.eot?3aun5s#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon7d2d.ttf?3aun5s') format('truetype'),
+    url('../fonts/icomoon7d2d.woff?3aun5s') format('woff'),
+    url('../fonts/icomoon7d2d.svg?3aun5s#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
