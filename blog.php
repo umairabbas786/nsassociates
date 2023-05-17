@@ -8,7 +8,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title-area ltn__section-title-2--- text-center">
-                        <h6 class="section-subtitle section-subtitle-2 ltn__secondary-color">News & Blogs</h6>
+                        <!-- <h6 class="section-subtitle section-subtitle-2 ltn__secondary-color">News & Blogs</h6> -->
                         <h1 class="section-title">Leatest News Feeds</h1>
                     </div>
                 </div>

@@ -47,9 +47,9 @@
                                 <ul>
                                     <li><a href="index.php">Home</a></li>
                                     <li><a href="about.php">About us</a></li>
-                                    <li><a href="#">Properties</a></li>
-                                    <li><a href="#">Blogs</a></li>
-                                    <li><a href="#">Contact us</a></li>
+                                    <li><a href="property.php">Properties</a></li>
+                                    <li><a href="blog.php">Blogs</a></li>
+                                    <li><a href="contact.php">Contact us</a></li>
                                 </ul>
                             </div>
                         </div>

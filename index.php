@@ -163,7 +163,7 @@
                             <img src="img/icons/icon-img/21.png" alt="#">
                         </div>
                         <div class="ltn__feature-info">
-                            <h3><a href="service-details.html">Buy a home</a></h3>
+                            <h3><a href="property.php">Buy a home</a></h3>
                             <p>over 1 million+ homes for sale available on the website, we can match you with a house
                                 you will want to call home.</p>
                         </div>
@@ -176,7 +176,7 @@
                             <img src="img/icons/icon-img/22.png" alt="#">
                         </div>
                         <div class="ltn__feature-info">
-                            <h3><a href="service-details.html">Rent a home</a></h3>
+                            <h3><a href="property.php">Rent a home</a></h3>
                             <p>over 1 million+ homes for sale available on the website, we can match you with a house
                                 you will want to call home.</p>
                         </div>
@@ -189,7 +189,7 @@
                             <img src="img/icons/icon-img/23.png" alt="#">
                         </div>
                         <div class="ltn__feature-info">
-                            <h3><a href="service-details.html">Sell a home</a></h3>
+                            <h3><a href="property.php">Sell a home</a></h3>
                             <p>over 1 million+ homes for sale available on the website, we can match you with a house
                                 you will want to call home.</p>
                         </div>
@@ -214,7 +214,7 @@
                 <div class="col-lg-12">
                     <div class="ltn__product-item ltn__product-item-4 text-center---">
                         <div class="product-img">
-                            <a href="product-details.html"><img src="img/product-3/1.jpg" alt="#"></a>
+                            <a href="show-property.php"><img src="img/product-3/1.jpg" alt="#"></a>
                             <div class="product-badge">
                                 <ul>
                                     <li class="sale-badge bg-green">For Rent</li>
@@ -222,7 +222,7 @@
                             </div>
                         </div>
                         <div class="product-info">
-                            <h2 class="product-title"><a href="product-details.html">New Apartment Nice View</a></h2>
+                            <h2 class="product-title"><a href="show-property.php">New Apartment Nice View</a></h2>
                             <div class="product-description">
                                 <p>Beautiful Huge 1 Family House In Heart Of <br>
                                     city, India</p>
@@ -234,7 +234,7 @@
                 <div class="col-lg-12">
                     <div class="ltn__product-item ltn__product-item-4 text-center---">
                         <div class="product-img">
-                            <a href="product-details.html"><img src="img/product-3/2.jpg" alt="#"></a>
+                            <a href="show-property.php"><img src="img/product-3/2.jpg" alt="#"></a>
                             <div class="product-badge">
                                 <ul>
                                     <li class="sale-badge bg-green---">For Sale</li>
@@ -244,7 +244,7 @@
                             </div>
                         </div>
                         <div class="product-info">
-                            <h2 class="product-title"><a href="product-details.html">Modern Apartments</a></h2>
+                            <h2 class="product-title"><a href="show-property.php">Modern Apartments</a></h2>
                             <div class="product-description">
                                 <p>Beautiful Huge 1 Family House In Heart Of <br>
                                     city, India.</p>
@@ -256,7 +256,7 @@
                 <div class="col-lg-12">
                     <div class="ltn__product-item ltn__product-item-4 text-center---">
                         <div class="product-img">
-                            <a href="product-details.html"><img src="img/product-3/3.jpg" alt="#"></a>
+                            <a href="show-property.php"><img src="img/product-3/3.jpg" alt="#"></a>
                             <div class="product-badge">
                                 <ul>
                                     <li class="sale-badge bg-green">For Rent</li>
@@ -268,7 +268,7 @@
                             </div>
                         </div>
                         <div class="product-info">
-                            <h2 class="product-title"><a href="product-details.html">Comfortable Apartment</a></h2>
+                            <h2 class="product-title"><a href="show-property.php">Comfortable Apartment</a></h2>
                             <div class="product-description">
                                 <p>Beautiful Huge 1 Family House In Heart Of <br>
                                     city, India.</p>
@@ -280,7 +280,7 @@
                 <div class="col-lg-12">
                     <div class="ltn__product-item ltn__product-item-4 text-center---">
                         <div class="product-img">
-                            <a href="product-details.html"><img src="img/product-3/4.jpg" alt="#"></a>
+                            <a href="show-property.php"><img src="img/product-3/4.jpg" alt="#"></a>
                             <div class="product-badge">
                                 <ul>
                                     <li class="sale-badge bg-green">For Rent</li>
@@ -292,7 +292,7 @@
                             </div>
                         </div>
                         <div class="product-info">
-                            <h2 class="product-title"><a href="product-details.html">Luxury villa in Rego Park </a></h2>
+                            <h2 class="product-title"><a href="show-property.php">Luxury villa in Rego Park </a></h2>
                             <div class="product-description">
                                 <p>Beautiful Huge 1 Family House In Heart Of <br>
                                     city, India.</p>
@@ -304,7 +304,7 @@
                 <div class="col-lg-12">
                     <div class="ltn__product-item ltn__product-item-4 text-center---">
                         <div class="product-img">
-                            <a href="product-details.html"><img src="img/product-3/5.jpg" alt="#"></a>
+                            <a href="show-property.php"><img src="img/product-3/5.jpg" alt="#"></a>
                             <div class="product-badge">
                                 <ul>
                                     <li class="sale-badge bg-green">For Rent</li>
@@ -316,7 +316,7 @@
                             </div>
                         </div>
                         <div class="product-info">
-                            <h2 class="product-title"><a href="product-details.html">Beautiful Flat in Manhattan </a>
+                            <h2 class="product-title"><a href="show-property.php">Beautiful Flat in Manhattan </a>
                             </h2>
                             <div class="product-description">
                                 <p>Beautiful Huge 1 Family House In Heart Of <br>
@@ -343,7 +343,7 @@
             <div class="row ltn__category-slider-active--- slick-arrow-1 justify-content-center">
                 <div class="col-lg-3 col-md-4 col-sm-6 col-6">
                     <div class="ltn__category-item ltn__category-item-5 text-center">
-                        <a href="shop.html">
+                        <a href="#">
                             <span class="category-icon"><i class="flaticon-car"></i></span>
                             <span class="category-title">Parking Space</span>
                         </a>
@@ -351,7 +351,7 @@
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6 col-6">
                     <div class="ltn__category-item ltn__category-item-5 text-center">
-                        <a href="shop.html">
+                        <a href="#">
                             <span class="category-icon"><i class="flaticon-swimming"></i></span>
                             <span class="category-title">Swimming Pool</span>
                         </a>
@@ -359,7 +359,7 @@
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6 col-6">
                     <div class="ltn__category-item ltn__category-item-5 text-center">
-                        <a href="shop.html">
+                        <a href="#">
                             <span class="category-icon"><i class="flaticon-secure-shield"></i></span>
                             <span class="category-title">Private Security</span>
                         </a>
@@ -367,7 +367,7 @@
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6 col-6">
                     <div class="ltn__category-item ltn__category-item-5 text-center">
-                        <a href="shop.html">
+                        <a href="#">
                             <span class="category-icon"><i class="flaticon-stethoscope"></i></span>
                             <span class="category-title">Medical Center</span>
                         </a>
@@ -375,7 +375,7 @@
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6 col-6">
                     <div class="ltn__category-item ltn__category-item-5 text-center">
-                        <a href="shop.html">
+                        <a href="#">
                             <span class="category-icon"><i class="flaticon-book"></i></span>
                             <span class="category-title">Library Area</span>
                         </a>
@@ -383,7 +383,7 @@
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6 col-6">
                     <div class="ltn__category-item ltn__category-item-5 text-center">
-                        <a href="shop.html">
+                        <a href="#">
                             <span class="category-icon"><i class="flaticon-house"></i></span>
                             <span class="category-title">School</span>
                         </a>
@@ -391,7 +391,7 @@
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6 col-6">
                     <div class="ltn__category-item ltn__category-item-5 text-center">
-                        <a href="shop.html">
+                        <a href="#">
                             <span class="category-icon"><i class="flaticon-home-2"></i></span>
                             <span class="category-title">Smart Homes</span>
                         </a>
@@ -399,7 +399,7 @@
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6 col-6">
                     <div class="ltn__category-item ltn__category-item-5 text-center">
-                        <a href="shop.html">
+                        <a href="#">
                             <span class="category-icon"><i class="flaticon-slider"></i></span>
                             <span class="category-title">Kid’s Playland</span>
                         </a>

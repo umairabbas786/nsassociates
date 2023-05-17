@@ -11,7 +11,7 @@
                         <h1 class="page-title">Properties</h1>
                         <div class="ltn__breadcrumb-list">
                             <ul>
-                                <li><a href="index-2.html"><span class="ltn__secondary-color"><i
+                                <li><a href="property.php"><span class="ltn__secondary-color"><i
                                                 class="fas fa-home"></i></span> Home</a></li>
                                 <li>Properties</li>
                             </ul>
@@ -37,7 +37,7 @@
                                         <div
                                             class="ltn__product-item ltn__product-item-4 ltn__product-item-5 text-center---">
                                             <div class="product-img">
-                                                <a href="product-details.html"><img src="img/product-3/1.jpg"
+                                                <a href="show-property.php"><img src="img/product-3/1.jpg"
                                                         alt="#"></a>
                                             </div>
                                             <div class="product-info">
@@ -46,7 +46,7 @@
                                                         <li class="sale-badg">For Rent</li>
                                                     </ul>
                                                 </div>
-                                                <h2 class="product-title"><a href="product-details.html">New House
+                                                <h2 class="product-title"><a href="show-property.php">New House
                                                         Nice View</a></h2>
                                             </div>
                                         </div>
@@ -56,7 +56,7 @@
                                         <div
                                             class="ltn__product-item ltn__product-item-4 ltn__product-item-5 text-center---">
                                             <div class="product-img">
-                                                <a href="product-details.html"><img src="img/product-3/2.jpg"
+                                                <a href="show-property.php"><img src="img/product-3/2.jpg"
                                                         alt="#"></a>
                                             </div>
                                             <div class="product-info">
@@ -65,7 +65,7 @@
                                                         <li class="sale-badg">For Sale</li>
                                                     </ul>
                                                 </div>
-                                                <h2 class="product-title"><a href="product-details.html">New Apartment
+                                                <h2 class="product-title"><a href="show-property.php">New Apartment
                                                         Nice View</a></h2>
                                             </div>
                                         </div>
@@ -75,7 +75,7 @@
                                         <div
                                             class="ltn__product-item ltn__product-item-4 ltn__product-item-5 text-center---">
                                             <div class="product-img">
-                                                <a href="product-details.html"><img src="img/product-3/3.jpg"
+                                                <a href="show-property.php"><img src="img/product-3/3.jpg"
                                                         alt="#"></a>
                                             </div>
                                             <div class="product-info">
@@ -84,7 +84,7 @@
                                                         <li class="sale-badg">For Rent</li>
                                                     </ul>
                                                 </div>
-                                                <h2 class="product-title"><a href="product-details.html">New Apartment
+                                                <h2 class="product-title"><a href="show-property.php">New Apartment
                                                         Nice View</a></h2>
                                             </div>
                                         </div>
@@ -94,7 +94,7 @@
                                         <div
                                             class="ltn__product-item ltn__product-item-4 ltn__product-item-5 text-center---">
                                             <div class="product-img">
-                                                <a href="product-details.html"><img src="img/product-3/4.jpg"
+                                                <a href="show-property.php"><img src="img/product-3/4.jpg"
                                                         alt="#"></a>
                                             </div>
                                             <div class="product-info">
@@ -103,7 +103,7 @@
                                                         <li class="sale-badg">For Rent</li>
                                                     </ul>
                                                 </div>
-                                                <h2 class="product-title"><a href="product-details.html">New Apartment
+                                                <h2 class="product-title"><a href="show-property.php">New Apartment
                                                         Nice View</a></h2>
                                             </div>
                                         </div>
@@ -113,7 +113,7 @@
                                         <div
                                             class="ltn__product-item ltn__product-item-4 ltn__product-item-5 text-center---">
                                             <div class="product-img">
-                                                <a href="product-details.html"><img src="img/product-3/5.jpg"
+                                                <a href="show-property.php"><img src="img/product-3/5.jpg"
                                                         alt="#"></a>
                                             </div>
                                             <div class="product-info">
@@ -122,7 +122,7 @@
                                                         <li class="sale-badg">For Rent</li>
                                                     </ul>
                                                 </div>
-                                                <h2 class="product-title"><a href="product-details.html">New Apartment
+                                                <h2 class="product-title"><a href="show-property.php">New Apartment
                                                         Nice View</a></h2>
                                             </div>
                                         </div>
@@ -132,7 +132,7 @@
                                         <div
                                             class="ltn__product-item ltn__product-item-4 ltn__product-item-5 text-center---">
                                             <div class="product-img">
-                                                <a href="product-details.html"><img src="img/product-3/6.jpg"
+                                                <a href="show-property.php"><img src="img/product-3/6.jpg"
                                                         alt="#"></a>
                                             </div>
                                             <div class="product-info">
@@ -141,7 +141,7 @@
                                                         <li class="sale-badg">For Rent</li>
                                                     </ul>
                                                 </div>
-                                                <h2 class="product-title"><a href="product-details.html">New House
+                                                <h2 class="product-title"><a href="show-property.php">New House
                                                         Nice View</a></h2>
                                             </div>
                                         </div>

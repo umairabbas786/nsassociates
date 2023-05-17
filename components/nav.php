@@ -8,7 +8,7 @@
                     <div class="ltn__top-bar-menu">
                         <ul>
                             <li><a href="mailto:info@webmail.com?Subject=Flower%20greetings%20to%20you"><i
-                                        class="icon-mail"></i> info@webmail.com</a></li>
+                                        class="icon-mail"></i> support@rspinfradeveloper.com</a></li>
                             <li><a href="locations.html"><i class="icon-placeholder"></i> 15/A, Nest Tower, NYC</a></li>
                         </ul>
                     </div>
@@ -63,7 +63,7 @@
                 <div class="col">
                     <div class="site-logo-wrap">
                         <div class="site-logo">
-                            <a href="index-2.html"><img src="img/logo.png" alt="Logo"></a>
+                            <a href="index.php"><img src="img/blog/N&S_Associates_logo.png" alt="Logo" width="300" height="150"></a>
                         </div>
                         <div class="get-support clearfix d-none">
                             <div class="get-support-icon">
