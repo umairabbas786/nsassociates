@@ -84,7 +84,6 @@
                                     <li><a href="index.php">Home</a></li>
                                     <li><a href="about.php">About us</a></li>
                                     <li><a href="property.php">Properties</a></li>
-                                    <li><a href="blog.php">Blogs</a></li>
                                     <li><a href="contact.php">Contact Us</a></li>
                                 </ul>
                             </div>
