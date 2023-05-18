@@ -330,7 +330,7 @@
         </div>
     </div>
     <!-- CATEGORY AREA START -->
-    <div class="ltn__category-area ltn__product-gutter section-bg-1--- pt-115 pb-90 ">
+    <div class="ltn__feature-area section-bg-1 pt-120 pb-90 mb-120---">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -411,51 +411,16 @@
     <!-- CATEGORY AREA END -->
     <!-- CONTACT ADDRESS AREA START -->
     <div class="row">
-                <div class="col-lg-12">
-                    <div class="section-title-area ltn__section-title-2--- text-center">
-                        <!-- <h6 class="section-subtitle section-subtitle-2 ltn__secondary-color">FAQ</h6> -->
-                        <h1 class="section-title">Contact Us</h1>
-                    </div>
+        <div class="col-lg-12">
+            <div class="need-support text-center mt-100 mb-100">
+                <h2>Still need help? Reach out to support 24/7:</h2>
+                <div class="btn-wrapper mb-30">
+                    <a href="contact.php" class="theme-btn-1 btn">Contact Us</a>
                 </div>
-            </div>
-    <div class="ltn__contact-address-area mb-90">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-4">
-                    <div class="ltn__contact-address-item ltn__contact-address-item-3 box-shadow">
-                        <div class="ltn__contact-address-icon">
-                            <img src="img/icons/10.png" alt="Icon Image">
-                        </div>
-                        <h3>Email Address</h3>
-                        <p>info@webmail.com <br>
-                            jobs@webexample.com</p>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="ltn__contact-address-item ltn__contact-address-item-3 box-shadow">
-                        <div class="ltn__contact-address-icon">
-                            <img src="img/icons/11.png" alt="Icon Image">
-                        </div>
-                        <h3>Phone Number</h3>
-                        <p>+0123-456789 <br> +987-6543210</p>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="ltn__contact-address-item ltn__contact-address-item-3 box-shadow">
-                        <div class="ltn__contact-address-icon">
-                            <img src="img/icons/12.png" alt="Icon Image">
-                        </div>
-                        <h3>Office Address</h3>
-                        <p>18/A, New Born Town Hall <br>
-                            New York, US</p>
-                    </div>
-                </div>
+                <h3 class="animated fadeIn"><i class="fas fa-phone"></i> +0123-456-789</h3>
             </div>
         </div>
-     </div>
-    <!-- CATEGORY AREA END -->
-    <!-- PRODUCT SLIDER AREA END -->
-    <!-- FEATURE AREA END -->
+    </div>
 
     <?php include "components/footer.php"; ?>
 </div>

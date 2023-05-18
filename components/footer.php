@@ -75,7 +75,7 @@
                 <div class="row">
                     <div class="col-md-6 col-12">
                         <div class="ltn__copyright-design clearfix">
-                            <p>All Rights Reserved @ NIHASWI SOLUTIONS <span class="current-year"></span></p>
+                            <p>All Rights Reserved <a href="https://nihaswisolutions.com">NIHASWI SOLUTIONS</a> &copy;<span class="current-year"></span></p>
                         </div>
                     </div>
                     <!-- <div class="col-md-6 col-12 align-self-center">

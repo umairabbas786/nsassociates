@@ -3,7 +3,7 @@
 <div class="body-wrapper">
     <?php include "components/nav.php"; ?>
     <!-- BREADCRUMB AREA START -->
-    <div class="ltn__breadcrumb-area text-left bg-overlay-white-30 bg-image " data-bs-bg="img/bg/14.jpg">
+    <div class="ltn__breadcrumb-area text-left bg-overlay-white-30 bg-image mb-5" data-bs-bg="img/bg/14.jpg">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -11,7 +11,7 @@
                         <h1 class="page-title">Properties</h1>
                         <div class="ltn__breadcrumb-list">
                             <ul>
-                                <li><a href="property.php"><span class="ltn__secondary-color"><i
+                                <li><a href="index.php"><span class="ltn__secondary-color"><i
                                                 class="fas fa-home"></i></span> Home</a></li>
                                 <li>Properties</li>
                             </ul>
@@ -23,7 +23,7 @@
     </div>
     <!-- BREADCRUMB AREA END -->
     <!-- PRODUCT DETAILS AREA START -->
-    <div class="ltn__product-area ltn__product-gutter mb-100">
+    <div class="ltn__product-area ltn__product-gutter mb-5">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">

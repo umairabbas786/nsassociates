@@ -63,16 +63,7 @@
                 <div class="col">
                     <div class="site-logo-wrap">
                         <div class="site-logo">
-                            <a href="index.php"><img src="img/blog/N&S_Associates_logo.png" alt="Logo" width="300" height="150"></a>
-                        </div>
-                        <div class="get-support clearfix d-none">
-                            <div class="get-support-icon">
-                                <i class="icon-call"></i>
-                            </div>
-                            <div class="get-support-info">
-                                <h6>Get Support</h6>
-                                <h4><a href="tel:+123456789">123-456-789-10</a></h4>
-                            </div>
+                            <a href="index.php"><img src="img/blog/n&S_logo.png" alt="Logo" height="60"></a>
                         </div>
                     </div>
                 </div>
@@ -119,7 +110,7 @@
     <div class="ltn__utilize-menu-inner ltn__scrollbar">
         <div class="ltn__utilize-menu-head">
             <div class="site-logo">
-                <a href="index-2.html"><img src="img/logo.png" alt="Logo"></a>
+                <a href="index.php"><img src="img/blog/n&S_logo.png" alt="Logo" height="60"></a>
             </div>
             <button class="ltn__utilize-close">×</button>
         </div>

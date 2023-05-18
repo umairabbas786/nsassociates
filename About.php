@@ -3,7 +3,7 @@
 <div class="body-wrapper">
 <?php include "components/nav.php"; ?>
     <!-- BREADCRUMB AREA START -->
-    <div class="ltn__breadcrumb-area text-left bg-overlay-white-10 bg-image "  data-bs-bg="img/bg/14.jpg">
+    <div class="ltn__breadcrumb-area text-left bg-overlay-white-10 bg-image mb-5"  data-bs-bg="img/bg/14.jpg">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -181,7 +181,7 @@
     </div>
     <!-- OUR HISTORY AREA END -->
     <!-- Our Services Start -->
-    <div class="ltn__feature-area section-bg-1 pt-120 pb-90 mb-120---">
+    <div class="ltn__feature-area section-bg-1 py-5 mb-5">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
